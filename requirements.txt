@@ -1,0 +1,7 @@
+streamlit
+spacy
+transformers
+torch
+beautifulsoup4
+newspaper3k
+requests
